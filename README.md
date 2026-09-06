@@ -73,25 +73,30 @@ I’m a **Full-Stack Developer with 6+ years of hands-on experience** building, 
 
 ## 🌟 Selected Work
 
-### [Thelish Eye Hospital Management CMS & Digital Platform](https://www.thelisheye.com/)
+### Thelish Eye Hospital Management CMS & Digital Platform
 Hospital management CMS and public-facing digital platform with Super Admin/Admin access, appointment booking, enquiries, content management, and secure administration.  
-**Stack:** PHP · React.js · MySQL
+**Stack:** PHP · React.js · MySQL  
+[**Case Study**](https://github.com/abswebtechnology/thelish-eye-hospital-cms-case-study) · [**Live Website**](https://www.thelisheye.com/)
 
-### [ABS Web Technologies Ltd](https://abswebtech.net/)
+### ABS Web Technologies Ltd
 Corporate and portfolio platform showcasing services, team members, completed projects, and live client solutions.  
-**Stack:** PHP · React.js · MySQL
+**Stack:** PHP · React.js · MySQL  
+[**Case Study**](https://github.com/abswebtechnology/abs-web-technologies-case-study) · [**Live Website**](https://abswebtech.net/)
 
-### [InterWeb Satcom Limited](https://www.interweb.ng/)
+### InterWeb Satcom Limited
 Corporate IT and connectivity platform presenting services, solutions, projects, technologies, and support offerings.  
-**Stack:** PHP · React.js · MySQL
+**Stack:** PHP · React.js · MySQL  
+[**Case Study**](https://github.com/abswebtechnology/interweb-satcom-corporate-platform-case-study) · [**Live Website**](https://www.interweb.ng/)
 
-### [Leadership Mind School](https://www.zoelms.com/)
+### Leadership Mind School
 Leadership-development and coaching platform supporting programs, executive coaching, master classes, and personalized coaching applications.  
-**Stack:** PHP · React.js · MySQL
+**Stack:** PHP · React.js · MySQL  
+[**Case Study**](https://github.com/abswebtechnology/leadership-mind-school-case-study) · [**Live Website**](https://www.zoelms.com/)
 
-### [Earn More With Along – Mobile App](https://play.google.com/store/apps/details?id=com.alongtransportng.driver&pli=1)
+### Earn More With Along – Mobile App
 Collaborative full-stack mobile application project covering frontend, backend, APIs, database integration, authentication, testing, and deployment.  
-**Stack:** Flutter · REST APIs · Authentication · Database Integration
+**Stack:** Flutter · REST APIs · Authentication · Database Integration  
+[**Live Android App**](https://play.google.com/store/apps/details?id=com.alongtransportng.driver&pli=1)
 
 > **Note:** Some client source code is private or confidential. Where code cannot be published publicly, I showcase the live product and project case study instead.
 
